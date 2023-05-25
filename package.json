@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-part-ii",
+  "version": "1.0.0",
+  "description": "part second nodejs practice",
+  "main": "fsmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kisshor",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {}
+}
